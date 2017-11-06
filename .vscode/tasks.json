@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "type": "gulp",
+      "identifier": "build",
+      "label": "build",
+      "task": "default",
+      "problemMatcher": []
+    }
+  ]
+}
