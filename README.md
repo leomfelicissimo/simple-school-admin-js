@@ -19,30 +19,34 @@ Then, follow these steps:
 
 1) Clone the repository
 
-``` git clone https://github.com/leomfelicissimo/simple-school-backend.git ```
+```
+git clone https://github.com/leomfelicissimo/simple-school-backend.git
+```
 
 2) With, node installed, access application directory and get dependencies installed:
 ```
-	cd simple-school-backend
-	npm install
+cd simple-school-backend
+npm install
 ```
 
 3) Create a .env file with the content:
 ```
-	COOKIE_SECRET=YouNeedToUseABigRandomStringHere
-	MONGO_URL=Here you must to set the MongoDb URL
+COOKIE_SECRET=YouNeedToUseABigRandomStringHere
+MONGO_URL=Here you must to set the MongoDb URL
 ```
 
 4) Now, just start the app!
 
-``` npm start ```
+```
+npm start
+```
 
 ## Adittional Info ##
 
 This project uses KeystoneJs. The KeystoneJs is a CMS that implements security, database access, API exposing and other features to any FrontEnd project. Keystone works internally creating dynamic routing with express, and documents, collections to models of any application on MongoDb. The Keystone's admin is created with React being easy to customize and extend if needed.
 
 ## Author ##
-* **eonardo Felicissimo**
+* **Leonardo Felicissimo**
 
 
 ## License
