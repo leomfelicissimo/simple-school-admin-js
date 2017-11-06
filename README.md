@@ -1,4 +1,4 @@
-# Simple School BackEnd
+# Simple School Admin
 
 This is a lightweight, clean and customized javascript admin dashboard that uses KeystoneJs like CMS to manage data for a small LMS FrontEnd App. The Simple School BackEnd was created with a modern structure rather of proposed by Keystone boilerplate. It uses ES6 with babel transpilation, gulp for build and bundle. You can find either, some customizations that drive new developments of a backend to any small LMS website.
 
